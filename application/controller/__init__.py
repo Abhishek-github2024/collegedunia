@@ -25,4 +25,4 @@ from application.model.news_model import *
 from application.model.rank_model import *
 from application.model.news_model import *
 
-from pytz import timezone 
+# from pytz import timezone 
