@@ -1,1 +1,1 @@
-# collegedunia rest api
+# rest api
